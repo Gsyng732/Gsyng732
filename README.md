@@ -2,7 +2,8 @@
 -  I’m sending you some documents...
 -  please have a look on it  ...u will like it 
 -  I’m trying to have a chat...
-- 📫 How to reach me ...
+- 📫 How to reach me ...gsyng001@gmail.com
+- 
 
 <!---
 harjitsingh/harjitsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
